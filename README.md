@@ -14,3 +14,5 @@
 - External Libraries
 - Default values of Int, Float, Boolean Variables.
 - Types of Variables
+- Variable Underflow and Oveflow hint: Int.
+- Type Casting: Widening and Narrow TypeCasting.
