@@ -11,11 +11,15 @@
 - Byte Code Class
 - Types of Comments with Syntax.
 - Permetive and Non-Permitive
-- Functions Stored in Memory
 - External Libraries
 - Default values of Int, Float, Boolean Variables.
 - Types of Variables
 - Variable Underflow and Oveflow hint: Int.
 - Type Casting: Widening and Narrow TypeCasting.
+- Functions Stored in Memory
 - Diff b/w print, println and printf.
 - Arrays Allocation in Memory.
+- 2D-Arrays Memory Space and  Visulaization
+- Strings CompareTo method
+- String Builder
+- DataType Parsing
