@@ -22,6 +22,6 @@
 - 2D-Arrays Memory Space and  Visulaization
 - Strings CompareTo method
 - String Builder
-- DataType Parsing
+- DataType Parsing -> Integer
 - String Builder and String -> Memory stack and heap
 - Diff b/w ""  and ''
