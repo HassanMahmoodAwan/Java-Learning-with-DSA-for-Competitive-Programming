@@ -23,3 +23,4 @@
 - Strings CompareTo method
 - String Builder
 - DataType Parsing
+- String Builder and String -> Memory stack and heap
