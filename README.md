@@ -29,3 +29,4 @@
 - Ternary Operator -> (a > b) ? a:b;
 - Enhanced For Loop
 - Flow Control 
+- increment by 2 in for loop
