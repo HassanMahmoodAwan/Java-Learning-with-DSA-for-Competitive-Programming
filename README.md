@@ -30,6 +30,9 @@
 - Enhanced For Loop
 - Flow Control 
 - increment by 2 in for loop
+- Exception Handling
+- Fibonaci Series
+- Method Overloading and Overriding.
 
 
 ### Happy Learning! Started from New Year 2024.
